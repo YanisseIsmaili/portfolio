@@ -8,7 +8,7 @@ Je suis passionné par jeux vidéos, et j'ai une expérience approfondie dans da
 
 ## Comment naviguer sur ce portfolio ?
 
-Ce portfolio est hébergé sur GitHub Pages. Vous pouvez accéder au site web en suivant ce lien : https://theauyapi-portfolio.netlify.app. Sur le site, vous trouverez les détails de mes projets, mon expérience professionnelle et mes compétences.
+Ce portfolio est hébergé sur GitHub Pages. Vous pouvez accéder au site web en suivant ce lien : [https://yanisseismaili.github.ioportfolio](https://yanisseismaili.github.io/portfolio/) Sur le site, vous trouverez les détails de mes projets, mon expérience professionnelle et mes compétences.
 
 ## Comment me contacter
 
